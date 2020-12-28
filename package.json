@@ -1,0 +1,25 @@
+{
+  "name": "caching",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "express": "^4.17.1",
+    "redis": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dedalus-Stephen/caching-example.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Dedalus-Stephen/caching-example/issues"
+  },
+  "homepage": "https://github.com/Dedalus-Stephen/caching-example#readme",
+  "description": ""
+}
